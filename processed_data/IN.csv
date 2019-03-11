@@ -1,0 +1,41 @@
+address,city,price(USD),bds,ba,sqft,state,url
+5501 W Hamilton Rd S,Fort Wayne,30000000,16,28,38000,IN,https://www.zillow.com/homedetails/5501-W-Hamilton-Rd-S-Fort-Wayne-IN-46814/73106376_zpid/
+2355 W State Road 234,Fortville,25000,3,2,2404,IN,https://www.zillow.com/homedetails/2355-W-State-Road-234-Fortville-IN-46040/85278694_zpid/
+806 E Edgewood Ave,Indianapolis,118500,4,3,3998,IN,https://www.zillow.com/homedetails/806-E-Edgewood-Ave-Indianapolis-IN-46227/1170306_zpid/
+5799 Sunset Ln,Indianapolis,5800000,6,13,20710,IN,https://www.zillow.com/homedetails/5799-Sunset-Ln-Indianapolis-IN-46228/1257721_zpid/
+2204 Spring Hill Dr,South Bend,149900,3,3,1576,IN,https://www.zillow.com/homedetails/2204-Spring-Hill-Dr-South-Bend-IN-46628/77051003_zpid/
+1022 Hawthorne Dr,Columbus,165000,3,2,3374,IN,https://www.zillow.com/homedetails/1022-Hawthorne-Dr-Columbus-IN-47203/85094873_zpid/
+6572 E South Barbee Dr,Warsaw,169900,4,2,1378,IN,https://www.zillow.com/homedetails/6572-E-South-Barbee-Dr-Warsaw-IN-46582/122699794_zpid/
+3379 S Mauxferry Rd,Franklin,89000,5,2,3434,IN,https://www.zillow.com/homedetails/3379-S-Mauxferry-Rd-Franklin-IN-46131/85433714_zpid/
+1609 Southwood Dr,Mishawaka,56917,3,2,1216,IN,https://www.zillow.com/homedetails/1609-Southwood-Dr-Mishawaka-IN-46544/2085731364_zpid/
+2051 Crestview Ct,Lafayette,190000,4,3,1838,IN,https://www.zillow.com/homedetails/2051-Crestview-Ct-Lafayette-IN-47905/50650797_zpid/
+28 West Rd,Dune acres,550000,2,2,3164,IN,https://www.zillow.com/homedetails/28-West-Rd-Dune-Acres-IN-46304/81501401_zpid/
+3586 Inverness Blvd,CARMEL,400000,4,4,3120,IN,https://www.zillow.com/homedetails/3586-Inverness-Blvd-Carmel-IN-46032/73241976_zpid/
+5212 Eastbourne Dr,Indianapolis,185000,5,3,2469,IN,https://www.zillow.com/homedetails/5212-Eastbourne-Dr-Indianapolis-IN-46226/1148569_zpid/
+2641 Castine Walk,Mishawaka,144900,3,2,1462,IN,https://www.zillow.com/homedetails/2641-Castine-Walk-Mishawaka-IN-46544/77014331_zpid/
+15015 Silver Thorne Way,CARMEL,189900,3,2,1540,IN,https://www.zillow.com/homedetails/15015-Silver-Thorne-Way-Carmel-IN-46033/73259427_zpid/
+5229 N Stony Run Ln,Fort Wayne,90000,3,1,1114,IN,https://www.zillow.com/homedetails/5229-N-Stony-Run-Ln-Fort-Wayne-IN-46825/73154059_zpid/
+3720 Northcreek Dr,Fort Wayne,119900,3,2,1532,IN,https://www.zillow.com/homedetails/3720-Northcreek-Dr-Fort-Wayne-IN-46835/73179597_zpid/
+3014 W State Road 26,Hartford City,145000,4,2,2762,IN,https://www.zillow.com/homedetails/3014-W-State-Road-26-Hartford-City-IN-47348/85112722_zpid/
+10164 Patricia Church Dr,Granger,159900,3,2,1274,IN,https://www.zillow.com/homedetails/10164-Patricia-Church-Dr-Granger-IN-46530/77056470_zpid/
+6215 Thomas Rd,Indianapolis,130000,3,3,2192,IN,https://www.zillow.com/homedetails/6215-Thomas-Rd-Indianapolis-IN-46259/1128795_zpid/
+12958 Jacobsen Dr,CARMEL,310000,4,3,3202,IN,https://www.zillow.com/homedetails/12958-Jacobsen-Dr-Carmel-IN-46033/73230902_zpid/
+6855 Jenner Rd,Newburgh,299900,4,5,4123,IN,https://www.zillow.com/homedetails/6855-Jenner-Rd-Newburgh-IN-47630/85755744_zpid/
+4923 Kessler Boulevard East Dr,Indianapolis,998000,7,8,29500,IN,https://www.zillow.com/homedetails/4923-Kessler-Boulevard-East-Dr-Indianapolis-IN-46220/1262438_zpid/
+7109 W 500 N,McCordsville,137300,4,3,2856,IN,https://www.zillow.com/homedetails/7109-W-500-N-Mccordsville-IN-46055/85280887_zpid/
+897 Sleepy Hollow Pl,Greenwood,239900,3,2,1911,IN,https://www.zillow.com/homedetails/897-Sleepy-Hollow-Pl-Greenwood-IN-46142/85439519_zpid/
+9601 Main St,Clarks Hill,135000,3,2,4070,IN,https://www.zillow.com/homedetails/9601-Main-St-Clarks-Hill-IN-47930/50638163_zpid/
+8539 Gandy Ct,Indianapolis,85000,3,2,1120,IN,https://www.zillow.com/homedetails/8539-Gandy-Ct-Indianapolis-IN-46217/1188516_zpid/
+13865 Fernleaf Way,CARMEL,314900,4,3,3644,IN,https://www.zillow.com/homedetails/13865-Fernleaf-Way-Carmel-IN-46033/73268067_zpid/
+4 Roamin Ct,Greenwood,209900,4,3,2016,IN,https://www.zillow.com/homedetails/4-Roamin-Ct-Greenwood-IN-46142/85448529_zpid/
+354 Tim Bishop Ct,VALPARAISO,147500,4,2,1697,IN,https://www.zillow.com/homedetails/354-Tim-Bishop-Ct-Valparaiso-IN-46383/81496153_zpid/
+603 Imus Dr,Mishawaka,94900,3,2,1475,IN,https://www.zillow.com/homedetails/603-Imus-Dr-Mishawaka-IN-46545/94579315_zpid/
+14016 Delaware St,CROWN POINT,349900,4,3,3616,IN,https://www.zillow.com/homedetails/14016-Delaware-St-Crown-Point-IN-46307/73373529_zpid/
+8712 Voyager Dr,Fort Wayne,180000,3,3,2099,IN,https://www.zillow.com/homedetails/8712-Voyager-Dr-Fort-Wayne-IN-46804/73105660_zpid/
+140 Bennington Dr,Zionsville,525000,5,4,3820,IN,https://www.zillow.com/homedetails/140-Bennington-Dr-Zionsville-IN-46077/94281328_zpid/
+8026 Pepperwood Ct,Fort Wayne,139900,3,2,1360,IN,https://www.zillow.com/homedetails/8026-Pepperwood-Ct-Fort-Wayne-IN-46818/73153698_zpid/
+7930 Bent Willow Dr,Indianapolis,160000,3,2,1794,IN,https://www.zillow.com/homedetails/7930-Bent-Willow-Dr-Indianapolis-IN-46239/1239220_zpid/
+4034 Westlane Rd,Fort Wayne,129900,3,2,1520,IN,https://www.zillow.com/homedetails/4034-Westlane-Rd-Fort-Wayne-IN-46815/73169188_zpid/
+3530 S 450 E,Columbus,234000,3,2,2607,IN,https://www.zillow.com/homedetails/3530-S-450-E-Columbus-IN-47203/85104567_zpid/
+22 W Maryland St,Indianapolis,4900000,4,7,8500,IN,https://www.zillow.com/homedetails/22-W-Maryland-St-Indianapolis-IN-46204/2085515306_zpid/
+14258 Watersedge Dr,Granger,279000,4,4,2544,IN,https://www.zillow.com/homedetails/14258-Watersedge-Dr-Granger-IN-46530/77060724_zpid/

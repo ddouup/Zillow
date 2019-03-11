@@ -1,0 +1,239 @@
+address,city,price(USD),bds,ba,sqft,state,url
+924 Bel Air Rd,LOS ANGELES,150000000,12,31,38000,CA,https://www.zillow.com/homedetails/924-Bel-Air-Rd-Los-Angeles-CA-90077/20529647_zpid/
+67 Beverly Park Ct,BEVERLY HILLS,165000000,20,23,28660,CA,https://www.zillow.com/homedetails/67-Beverly-Park-Ct-Beverly-Hills-CA-90210/20533576_zpid/
+822 Sarbonne Rd,LOS ANGELES,88000000,9,15,24922,CA,https://www.zillow.com/homedetails/822-Sarbonne-Rd-Los-Angeles-CA-90077/55822832_zpid/
+4379 Firmament Ave,ENCINO,7795000,9,10,10200,CA,https://www.zillow.com/homedetails/4379-Firmament-Ave-Encino-CA-91436/19991124_zpid/
+2571 Wallingford Dr,BEVERLY HILLS,135000000,17,30,43000,CA,https://www.zillow.com/homedetails/2571-Wallingford-Dr-Beverly-Hills-CA-90210/20532066_zpid/
+9505 Lania Ln,BEVERLY HILLS,129000000,12,23,43000,CA,https://www.zillow.com/homedetails/9505-Lania-Ln-Beverly-Hills-CA-90210/20533853_zpid/
+10697 Somma Way,Los Angeles,100000000,8,21,41000,CA,https://www.zillow.com/homedetails/10697-Somma-Way-Los-Angeles-CA-90077/2087104502_zpid/
+1175 N Hillcrest Rd,BEVERLY HILLS,68000000,7,9,20000,CA,https://www.zillow.com/homedetails/1175-N-Hillcrest-Rd-Beverly-Hills-CA-90210/20534638_zpid/
+277 Saint Pierre Rd,Los Angeles,49900000,8,20,36000,CA,https://www.zillow.com/homedetails/277-Saint-Pierre-Rd-Los-Angeles-CA-90077/20526917_zpid/
+281 Bentley Cir,Los Angeles,48000000,7,10,20000,CA,https://www.zillow.com/homedetails/281-Bentley-Cir-Los-Angeles-CA-90049/20527733_zpid/
+9826 La Jolla Farms Rd,LA JOLLA,30000000,6,6,11954,CA,https://www.zillow.com/homedetails/9826-La-Jolla-Farms-Rd-La-Jolla-CA-92037/16834391_zpid/
+11490 Orum Rd,Los Angeles,56000000,9,15,18850,CA,https://www.zillow.com/homedetails/11490-Orum-Rd-Los-Angeles-CA-90049/20528926_zpid/
+3970 Victoria Ln,Westlake Village,85000000,12,33,50255,CA,https://www.zillow.com/homedetails/3970-Victoria-Ln-Westlake-Village-CA-91362/66107878_zpid/
+2900 Vallejo St,San Francisco,29000000,6,8.5,8675,CA,https://www.zillow.com/homedetails/2900-Vallejo-St-San-Francisco-CA-94123/15080751_zpid/
+N Foothill Rd,Beverly Hills,125000000,6,16,18543,CA,https://www.zillow.com/homedetails/N-Foothill-Rd-Beverly-Hills-CA-90210/2086465791_zpid/
+5521 Paradise Valley Rd,Hidden Hills,25000000,6,9,14491,CA,https://www.zillow.com/homedetails/5521-Paradise-Valley-Rd-Hidden-Hills-CA-91302/95704020_zpid/
+10701 Bellagio Rd,Los angeles,59995000,8,12,27000,CA,https://www.zillow.com/homedetails/10701-Bellagio-Rd-Los-Angeles-CA-90077/250226177_zpid/
+909 N Bedford Dr,BEVERLY HILLS,36500000,6,10,6736,CA,https://www.zillow.com/homedetails/909-N-Bedford-Dr-Beverly-Hills-CA-90210/20521337_zpid/
+5225 Figueroa Mountain Rd,Los Olivos,31000000,6,9,12598,CA,https://www.zillow.com/homedetails/5225-Figueroa-Mountain-Rd-Los-Olivos-CA-93441/2100144275_zpid/
+12300 Mulholland Dr,Beverly Hills,72000000,8,14,13084,CA,https://www.zillow.com/homedetails/12300-Mulholland-Dr-Beverly-Hills-CA-90210/135446760_zpid/
+916 Oxford Way,BEVERLY HILLS,38750000,7,12,14279,CA,https://www.zillow.com/homedetails/916-Oxford-Way-Beverly-Hills-CA-90210/20521153_zpid/
+26848 Pacific Coast Hwy,MALIBU,62000000,10,14,16107,CA,https://www.zillow.com/homedetails/26848-Pacific-Coast-Hwy-Malibu-CA-90265/20554889_zpid/
+355 1st St UNIT S904,SAN FRANCISCO,422150,2,2,1034,CA,https://www.zillow.com/homedetails/355-1st-St-UNIT-S904-San-Francisco-CA-94105/64971601_zpid/
+4425 Haskell Ave,ENCINO,11999000,8,8,14900,CA,https://www.zillow.com/homedetails/4425-Haskell-Ave-Encino-CA-91436/19991154_zpid/
+25201 Prado Del Grandioso,CALABASAS,8499000,6,9,9680,CA,https://www.zillow.com/homedetails/25201-Prado-Del-Grandioso-Calabasas-CA-91302/79804694_zpid/
+13691 Gavina Ave UNIT 594,Sylmar,134900,3,2,1652,CA,https://www.zillow.com/homedetails/13691-Gavina-Ave-UNIT-594-Sylmar-CA-91342/136709701_zpid/
+20067 Canyon View Dr,Santa Clarita,149000,3,2,1825,CA,https://www.zillow.com/homedetails/20067-Canyon-View-Dr-Santa-Clarita-CA-91351/136710329_zpid/
+5382 Kent Ave,RIVERSIDE,195000,3,2,1058,CA,https://www.zillow.com/homedetails/5382-Kent-Ave-Riverside-CA-92503/17808614_zpid/
+1251 Shadow Hill Way,BEVERLY HILLS,24995000,5,7,11073,CA,https://www.zillow.com/homedetails/1251-Shadow-Hill-Way-Beverly-Hills-CA-90210/20521994_zpid/
+3093 Sweetwater Mesa Road,MALIBU,36000000,5,5,14622,CA,https://www.zillow.com/homedetails/3093-Sweetwater-Mesa-Road-Malibu-CA-90265/2090568545_zpid/
+18 Harbor Is,NEWPORT BEACH,59995000,6,11,14200,CA,https://www.zillow.com/homedetails/18-Harbor-Is-Newport-Beach-CA-92660/25138442_zpid/
+25220 Walker Rd,Hidden Hills,14995000,8,13,19549,CA,https://www.zillow.com/homedetails/25220-Walker-Rd-Hidden-Hills-CA-91302/94684438_zpid/
+17111 El Vuelo,RANCHO SANTA FE,39000000,6,10,22500,CA,https://www.zillow.com/homedetails/17111-El-Vuelo-Rancho-Santa-Fe-CA-92067/16732045_zpid/
+9080 Bloomfield Ave SPC 74,Cypress,55000,4,2,1440,CA,https://www.zillow.com/homedetails/9080-Bloomfield-Ave-SPC-74-Cypress-CA-90630/2138316361_zpid/
+8366 Sunset View Dr,Los Angeles,18295000,5,10,10000,CA,https://www.zillow.com/homedetails/8366-Sunset-View-Dr-Los-Angeles-CA-90069/20798074_zpid/
+3103 Marmil Ave,SAN DIEGO,599000,4,2,1959,CA,https://www.zillow.com/homedetails/3103-Marmil-Ave-San-Diego-CA-92139/17137518_zpid/
+5922 4th Ave,LOS ANGELES,600000,2,1,1032,CA,https://www.zillow.com/homedetails/5922-4th-Ave-Los-Angeles-CA-90043/20326331_zpid/
+2002 Loma Vista Dr,BEVERLY HILLS,27995000,5,9,10047,CA,https://www.zillow.com/homedetails/2002-Loma-Vista-Dr-Beverly-Hills-CA-90210/20534301_zpid/
+1460 N Marengo Ave,PASADENA,449000,3,2,1718,CA,https://www.zillow.com/homedetails/1460-N-Marengo-Ave-Pasadena-CA-91103/20865207_zpid/
+2391 Roscomare Rd,Los Angeles,29000000,32,42,33955,CA,https://www.zillow.com/homedetails/2391-Roscomare-Rd-Los-Angeles-CA-90077/145642986_zpid/
+1707 Westridge Rd,LOS ANGELES,23495000,9,15,16243,CA,https://www.zillow.com/homedetails/1707-Westridge-Rd-Los-Angeles-CA-90049/20546614_zpid/
+1813 E Bay Ave,Newport Beach,44995000,5,8,12710,CA,https://www.zillow.com/homedetails/1813-E-Bay-Ave-Newport-Beach-CA-92661/25135603_zpid/
+9828 La Jolla Farms Rd,LA JOLLA,19500000,5,7,8627,CA,https://www.zillow.com/homedetails/9828-La-Jolla-Farms-Rd-La-Jolla-CA-92037/16834392_zpid/
+9425 Sunset Blvd,BEVERLY HILLS,36000000,8,14,12100,CA,https://www.zillow.com/homedetails/9425-Sunset-Blvd-Beverly-Hills-CA-90210/20522439_zpid/
+23800 Malibu Crest Dr,MALIBU,85000000,7,8.25,15500,CA,https://www.zillow.com/homedetails/23800-Malibu-Crest-Dr-Malibu-CA-90265/20554261_zpid/
+1201 Laurel Way,BEVERLY HILLS,38000000,6,8,11200,CA,https://www.zillow.com/homedetails/1201-Laurel-Way-Beverly-Hills-CA-90210/20522020_zpid/
+12605 Neon Way,Granada Hills,699000,4,3,2675,CA,https://www.zillow.com/homedetails/12605-Neon-Way-Granada-Hills-CA-91344/2085876636_zpid/
+1000 N Norman Pl,LOS ANGELES,18500000,8,14,14000,CA,https://www.zillow.com/homedetails/1000-N-Norman-Pl-Los-Angeles-CA-90049/20547014_zpid/
+3428 N Riverside Ave,RIALTO,275000,5,4,1640,CA,https://www.zillow.com/homedetails/3428-N-Riverside-Ave-Rialto-CA-92377/17327043_zpid/
+75 Beverly Park Ln,BEVERLY HILLS,47500000,8,10,14554,CA,https://www.zillow.com/homedetails/75-Beverly-Park-Ln-Beverly-Hills-CA-90210/20533549_zpid/
+25241 Prado Del Grandioso,CALABASAS,10980000,8,12,14763,CA,https://www.zillow.com/homedetails/25241-Prado-Del-Grandioso-Calabasas-CA-91302/89149375_zpid/
+1172 N Doheny Dr,Los Angeles,9300000,7,7,6485,CA,https://www.zillow.com/homedetails/1172-N-Doheny-Dr-Los-Angeles-CA-90069/20799494_zpid/
+24100 Hidden Ridge Rd,Hidden Hills,12995000,6,7,10876,CA,https://www.zillow.com/homedetails/24100-Hidden-Ridge-Rd-Hidden-Hills-CA-91302/119679793_zpid/
+7541 Shady Glen Cir,Huntington Beach,387500,2,3,1513,CA,https://www.zillow.com/homedetails/7541-Shady-Glen-Cir-Huntington-Beach-CA-92648/51673517_zpid/
+1456 E Philadelphia St SPC 378,Ontario,179900,3,2,1510,CA,https://www.zillow.com/homedetails/1456-E-Philadelphia-St-SPC-378-Ontario-CA-91761/2098879848_zpid/
+9133 Oriole Way,West Hollywood,29000000,6,10,12530,CA,https://www.zillow.com/homedetails/9133-Oriole-Way-West-Hollywood-CA-90069/20799194_zpid/
+27500 La Vida Real,LOS ALTOS HILLS,49990000,5,12,20982,CA,https://www.zillow.com/homedetails/27500-La-Vida-Real-Los-Altos-Hills-CA-94022/69299302_zpid/
+1400 Mission St APT 810,San Francisco,310484,1,1,631,CA,https://www.zillow.com/homedetails/1400-Mission-St-APT-810-San-Francisco-CA-94103/241585150_zpid/
+1231 Lago Vista Dr,BEVERLY HILLS,39500000,7,11,14173,CA,https://www.zillow.com/homedetails/1231-Lago-Vista-Dr-Beverly-Hills-CA-90210/20522701_zpid/
+6241 Warner Ave SPC 207,Huntington Beach,174900,4,2,1350,CA,https://www.zillow.com/homedetails/6241-Warner-Ave-SPC-207-Huntington-Beach-CA-92647/2086424848_zpid/
+17405 Cumpston St,Encino,4995000,6,10,10044,CA,https://www.zillow.com/homedetails/17405-Cumpston-St-Encino-CA-91316/2087115202_zpid/
+2820 Scott St,San Francisco,27500000,7,11,16000,CA,https://www.zillow.com/homedetails/2820-Scott-St-San-Francisco-CA-94123/2143821426_zpid/
+6750 Fig St,RIVERSIDE,285000,3,2,1432,CA,https://www.zillow.com/homedetails/6750-Fig-St-Riverside-CA-92506/17850075_zpid/
+1208 E Leigh Ct,Long Beach,198000,2,1,722,CA,https://www.zillow.com/homedetails/1208-E-Leigh-Ct-Long-Beach-CA-90806/21197289_zpid/
+1143 Ravoli Dr,Pacific Palisades,24450000,8,12,13777,CA,https://www.zillow.com/homedetails/1143-Ravoli-Dr-Pacific-Palisades-CA-90272/244498794_zpid/
+3325 82nd Ave,OAKLAND,499000,2,1,1094,CA,https://www.zillow.com/homedetails/3325-82nd-Ave-Oakland-CA-94605/24794218_zpid/
+11585 Spruce Run Dr,SAN DIEGO,1249000,6,4,3562,CA,https://www.zillow.com/homedetails/11585-Spruce-Run-Dr-San-Diego-CA-92131/16824653_zpid/
+1006 Chantilly Rd,LOS ANGELES,15000000,7,10,10000,CA,https://www.zillow.com/homedetails/1006-Chantilly-Rd-Los-Angeles-CA-90077/20529214_zpid/
+1836 Cindy St,San Diego,90000,3,2,820,CA,https://www.zillow.com/homedetails/1836-Cindy-St-San-Diego-CA-92154/140633943_zpid/
+701 E Orange Grove Blvd,PASADENA,330000,2,2,948,CA,https://www.zillow.com/homedetails/701-E-Orange-Grove-Blvd-Pasadena-CA-91104/20866510_zpid/
+10778 Chalon Rd,Los Angeles,35000000,7,6,11200,CA,https://www.zillow.com/homedetails/10778-Chalon-Rd-Los-Angeles-CA-90077/20526741_zpid/
+3990 Washington St,San Francisco,11500000,6,6.5,7600,CA,https://www.zillow.com/homedetails/3990-Washington-St-San-Francisco-CA-94118/2088100129_zpid/
+24051 Long Valley Rd,Hidden Hills,17500000,7,9,11850,CA,https://www.zillow.com/homedetails/24051-Long-Valley-Rd-Hidden-Hills-CA-91302/19882864_zpid/
+15111 Pipeline Ave,Chino Hills,219000,3,2,1541,CA,https://www.zillow.com/homedetails/15111-Pipeline-Ave-Chino-Hills-CA-91709/82918444_zpid/
+2078 Stradella Rd,LOS ANGELES,5995000,6,9,15000,CA,https://www.zillow.com/homedetails/2078-Stradella-Rd-Los-Angeles-CA-90077/20530384_zpid/
+1029 Hanover Dr,BEVERLY HILLS,39995000,5,8,12000,CA,https://www.zillow.com/homedetails/1029-Hanover-Dr-Beverly-Hills-CA-90210/20522338_zpid/
+6722 Burdett Way,SACRAMENTO,284900,3,2,1254,CA,https://www.zillow.com/homedetails/6722-Burdett-Way-Sacramento-CA-95823/25840479_zpid/
+1469 Bel Air Rd,Los Angeles,14950000,7,12,12339,CA,https://www.zillow.com/homedetails/1469-Bel-Air-Rd-Los-Angeles-CA-90077/20529570_zpid/
+1744 Stone Canyon Rd,LOS ANGELES,6750000,6,8,7800,CA,https://www.zillow.com/homedetails/1744-Stone-Canyon-Rd-Los-Angeles-CA-90077/20529449_zpid/
+1802 Princeton Ave,STOCKTON,199900,3,2,1503,CA,https://www.zillow.com/homedetails/1802-Princeton-Ave-Stockton-CA-95204/15310295_zpid/
+993 Dolores St,San Francisco,899000,2,2,1175,CA,https://www.zillow.com/homedetails/993-Dolores-St-San-Francisco-CA-94110/2086204887_zpid/
+5301 Amestoy Ave,ENCINO,5475000,6,10,8500,CA,https://www.zillow.com/homedetails/5301-Amestoy-Ave-Encino-CA-91316/19979327_zpid/
+1940 Bel Air Rd,LOS ANGELES,27995000,8,15,16590,CA,https://www.zillow.com/homedetails/1940-Bel-Air-Rd-Los-Angeles-CA-90077/20529501_zpid/
+61 Faxon Rd,Atherton,26500000,7,12,13014,CA,https://www.zillow.com/homedetails/61-Faxon-Rd-Atherton-CA-94027/15593641_zpid/
+517 N Rexford Dr,BEVERLY HILLS,12495000,6,9,9564,CA,https://www.zillow.com/homedetails/517-N-Rexford-Dr-Beverly-Hills-CA-90210/20521050_zpid/
+23777 Mulholland Hwy SPC 162,Calabasas,209500,3,2,1488,CA,https://www.zillow.com/homedetails/23777-Mulholland-Hwy-SPC-162-Calabasas-CA-91302/2134536752_zpid/
+3701 Catalina Dr,Carlsbad,699000,5,3,2127,CA,https://www.zillow.com/homedetails/3701-Catalina-Dr-Carlsbad-CA-92010/2085620347_zpid/
+1160 Shadow Hill Way,BEVERLY HILLS,19995000,5,8,10370,CA,https://www.zillow.com/homedetails/1160-Shadow-Hill-Way-Beverly-Hills-CA-90210/20522007_zpid/
+5889 Jed Smith Rd,Hidden Hills,14995000,7,12,12351,CA,https://www.zillow.com/homedetails/5889-Jed-Smith-Rd-Hidden-Hills-CA-91302/19882707_zpid/
+25860 Chalmers Pl,Calabasas,3895000,7,8,6947,CA,https://www.zillow.com/homedetails/25860-Chalmers-Pl-Calabasas-CA-91302/19883232_zpid/
+3432 Pinebrook,Costa Mesa,418000,3,2,1480,CA,https://www.zillow.com/homedetails/3432-Pinebrook-Costa-Mesa-CA-92626/2109776309_zpid/
+14000 Calle Real,GOLETA,110000000,10,21,360,CA,https://www.zillow.com/homedetails/14000-Calle-Real-Goleta-CA-93117/15917936_zpid/
+7575 Hill Rd,Granite Bay,500000,4,3,1957,CA,https://www.zillow.com/homedetails/7575-Hill-Rd-Granite-Bay-CA-95746/17677801_zpid/
+643 Cragmont Ave,BERKELEY,795000,2,1,843,CA,https://www.zillow.com/homedetails/643-Cragmont-Ave-Berkeley-CA-94708/24848218_zpid/
+3154 Riley Rd,SOLVANG,299000,4,2,2446,CA,https://www.zillow.com/homedetails/3154-Riley-Rd-Solvang-CA-93463/15957388_zpid/
+1220 Tasman Dr SPC 271,Sunnyvale,278800,2,2,1319,CA,https://www.zillow.com/homedetails/1220-Tasman-Dr-SPC-271-Sunnyvale-CA-94089/2101358281_zpid/
+5148 Main Ave,Orangevale,200000,,1,2085,CA,https://www.zillow.com/homedetails/5148-Main-Ave-Orangevale-CA-95662/2085516374_zpid/
+813 N Alpine Dr,BEVERLY HILLS,21999000,6,10,11000,CA,https://www.zillow.com/homedetails/813-N-Alpine-Dr-Beverly-Hills-CA-90210/20519817_zpid/
+2622 N Tustin Ave UNIT A,Santa Ana,204900,2,2,1283,CA,https://www.zillow.com/homedetails/2622-N-Tustin-Ave-UNIT-A-Santa-Ana-CA-92705/2093199095_zpid/
+1062 Maroney Ln,Pacific Palisades,7675000,6,10,7597,CA,https://www.zillow.com/homedetails/1062-Maroney-Ln-Pacific-Palisades-CA-90272/244110100_zpid/
+1160 Mission St UNIT 709,SAN FRANCISCO,287274,1,1,764,CA,https://www.zillow.com/homedetails/1160-Mission-St-UNIT-709-San-Francisco-CA-94103/83127981_zpid/
+4130 Calle Isabella,SAN CLEMENTE,44000000,7,10,12854,CA,https://www.zillow.com/homedetails/4130-Calle-Isabella-San-Clemente-CA-92672/25145236_zpid/
+4730 San Rafael Ave,LOS ANGELES,649900,2,2,1831,CA,https://www.zillow.com/homedetails/4730-San-Rafael-Ave-Los-Angeles-CA-90042/20763281_zpid/
+4921 Azucena Rd,WOODLAND HILLS,3499000,5,6,6208,CA,https://www.zillow.com/homedetails/4921-Azucena-Rd-Woodland-Hills-CA-91364/19900115_zpid/
+1222 Shafter Ave,SAN FRANCISCO,749000,5,2.5,2745,CA,https://www.zillow.com/homedetails/1222-Shafter-Ave-San-Francisco-CA-94124/15153895_zpid/
+32021 Avenida Evita,SAN JUAN CAPISTRANO,599000,3,2,1471,CA,https://www.zillow.com/homedetails/32021-Avenida-Evita-San-Juan-Capistrano-CA-92675/25561203_zpid/
+6266 Camino De La Costa,LA JOLLA,18900000,4,8,6338,CA,https://www.zillow.com/homedetails/6266-Camino-De-La-Costa-La-Jolla-CA-92037/16850614_zpid/
+14700 Laurel Dr,Riverside,298000,4,2,1800,CA,https://www.zillow.com/homedetails/14700-Laurel-Dr-Riverside-CA-92503/2091929817_zpid/
+2361 Cambridge St,SACRAMENTO,195000,3,1,924,CA,https://www.zillow.com/homedetails/2361-Cambridge-St-Sacramento-CA-95815/26089519_zpid/
+1091 Laurel Way,BEVERLY HILLS,35000000,8,12,15000,CA,https://www.zillow.com/homedetails/1091-Laurel-Way-Beverly-Hills-CA-90210/20522044_zpid/
+33740 Pacific Coast Hwy,MALIBU,48500000,6,8,6785,CA,https://www.zillow.com/homedetails/33740-Pacific-Coast-Hwy-Malibu-CA-90265/20558261_zpid/
+17011 Acena Dr,SAN DIEGO,499000,3,2,1395,CA,https://www.zillow.com/homedetails/17011-Acena-Dr-San-Diego-CA-92128/16743289_zpid/
+2110 Hercules Dr,LOS ANGELES,8495000,5,5.5,4260,CA,https://www.zillow.com/homedetails/2110-Hercules-Dr-Los-Angeles-CA-90046/20802035_zpid/
+24900 Paseo Del Rancho,CALABASAS,11900000,8,7,10387,CA,https://www.zillow.com/homedetails/24900-Paseo-Del-Rancho-Calabasas-CA-91302/20553310_zpid/
+11 Montage Way,Laguna Beach,29000000,5,8,9500,CA,https://www.zillow.com/homedetails/11-Montage-Way-Laguna-Beach-CA-92651/61644216_zpid/
+3476 Ridgeview Dr,Santa Rosa,799000,4,4,2930,CA,https://www.zillow.com/homedetails/3476-Ridgeview-Dr-Santa-Rosa-CA-95404/15869811_zpid/
+21 Neptune Ct,SAN RAMON,675000,3,2,1310,CA,https://www.zillow.com/homedetails/21-Neptune-Ct-San-Ramon-CA-94583/18443895_zpid/
+10539 Bellagio Rd,LOS ANGELES,34000000,5,7.5,13361,CA,https://www.zillow.com/homedetails/10539-Bellagio-Rd-Los-Angeles-CA-90077/20526836_zpid/
+29825 Corte Faldas,TEMECULA,519000,5,3,2483,CA,https://www.zillow.com/homedetails/29825-Corte-Faldas-Temecula-CA-92591/18170263_zpid/
+7125 Breno Pl,RANCHO CUCAMONGA,449000,4,3,2657,CA,https://www.zillow.com/homedetails/7125-Breno-Pl-Rancho-Cucamonga-CA-91701/59198276_zpid/
+6057 Scenic Ave,LOS ANGELES,829000,2,2,1370,CA,https://www.zillow.com/homedetails/6057-Scenic-Ave-Los-Angeles-CA-90068/20807196_zpid/
+75 Gates St,SAN FRANCISCO,1195000,3,2,775,CA,https://www.zillow.com/homedetails/75-Gates-St-San-Francisco-CA-94110/15161508_zpid/
+13158 Leaila Ln,POWAY,599900,3,2,1200,CA,https://www.zillow.com/homedetails/13158-Leaila-Ln-Poway-CA-92064/16829367_zpid/
+96 Ridge View Dr,Atherton,24900000,6,7,13849,CA,https://www.zillow.com/homedetails/96-Ridge-View-Dr-Atherton-CA-94027/15597827_zpid/
+908 S Orange Ave,SANTA ANA,498000,4,3,1894,CA,https://www.zillow.com/homedetails/908-S-Orange-Ave-Santa-Ana-CA-92701/25095426_zpid/
+8971 Shoreham Dr,Los Angeles,6995000,4,7,6032,CA,https://www.zillow.com/homedetails/8971-Shoreham-Dr-Los-Angeles-CA-90069/20799425_zpid/
+279 Higate Dr,Daly City,788000,3,2,1160,CA,https://www.zillow.com/homedetails/279-Higate-Dr-Daly-City-CA-94015/15472064_zpid/
+15024 Jupiter St,WHITTIER,499888,3,2,1212,CA,https://www.zillow.com/homedetails/15024-Jupiter-St-Whittier-CA-90603/21460866_zpid/
+29139 Misty Point Ln,Menifee,300000,5,3,2309,CA,https://www.zillow.com/homedetails/29139-Misty-Point-Ln-Menifee-CA-92585/2086102633_zpid/
+350 K St UNIT 312,SAN DIEGO,400000,2,2,1023,CA,https://www.zillow.com/homedetails/350-K-St-UNIT-312-San-Diego-CA-92101/54907184_zpid/
+1563 E 53rd St,Los Angeles,190000,2,1,816,CA,https://www.zillow.com/homedetails/1563-E-53rd-St-Los-Angeles-CA-90011/20614510_zpid/
+7455 Hillside Dr,LA JOLLA,12999900,5,7,9200,CA,https://www.zillow.com/homedetails/7455-Hillside-Dr-La-Jolla-CA-92037/16851377_zpid/
+4347 Marina Dr,SANTA BARBARA,21500000,6,8,14000,CA,https://www.zillow.com/homedetails/4347-Marina-Dr-Santa-Barbara-CA-93110/15905016_zpid/
+1031 61st St,Oakland,629000,2,2,1180,CA,https://www.zillow.com/homedetails/1031-61st-St-Oakland-CA-94608/24754871_zpid/
+10238 Clancey Ave,DOWNEY,600000,4,2,1521,CA,https://www.zillow.com/homedetails/10238-Clancey-Ave-Downey-CA-90241/21066000_zpid/
+4230 Valley Meadow Rd,ENCINO,7999000,8,11,10400,CA,https://www.zillow.com/homedetails/4230-Valley-Meadow-Rd-Encino-CA-91436/19992072_zpid/
+29020 Cliffside Dr,MALIBU,17995000,4,4,4054,CA,https://www.zillow.com/homedetails/29020-Cliffside-Dr-Malibu-CA-90265/20555558_zpid/
+1110 Green St,SAN FRANCISCO,14400000,4,6,3795,CA,https://www.zillow.com/homedetails/1110-Green-St-San-Francisco-CA-94109/15066047_zpid/
+20079 Northcliff Dr,Canyon Country,135000,2,2,1050,CA,https://www.zillow.com/homedetails/20079-Northcliff-Dr-Canyon-Country-CA-91351/2146861102_zpid/
+5025 Noble Ave,SHERMAN OAKS,799000,3,3,1566,CA,https://www.zillow.com/homedetails/5025-Noble-Ave-Sherman-Oaks-CA-91403/19982130_zpid/
+820 N Whittier Dr,BEVERLY HILLS,26500000,6,9,9200,CA,https://www.zillow.com/homedetails/820-N-Whittier-Dr-Beverly-Hills-CA-90210/20521401_zpid/
+609 Palisades Beach Rd,SANTA MONICA,21875000,10,12,10723,CA,https://www.zillow.com/homedetails/609-Palisades-Beach-Rd-Santa-Monica-CA-90402/20486935_zpid/
+806 Potrero Ave,SAN FRANCISCO,795000,2,1,1133,CA,https://www.zillow.com/homedetails/806-Potrero-Ave-San-Francisco-CA-94110/15150275_zpid/
+3906 Sunset Dr,LOS ANGELES,995000,4,2,1583,CA,https://www.zillow.com/homedetails/3906-Sunset-Dr-Los-Angeles-CA-90027/20747108_zpid/
+9255 Swallow Dr,Los Angeles,26995000,7,12,12800,CA,https://www.zillow.com/homedetails/9255-Swallow-Dr-Los-Angeles-CA-90069/20799705_zpid/
+20242 Westpoint Dr,RIVERSIDE,445000,5,4,4295,CA,https://www.zillow.com/homedetails/20242-Westpoint-Dr-Riverside-CA-92507/67087601_zpid/
+8462 Kirkwood Dr,LOS ANGELES,799000,2,1,901,CA,https://www.zillow.com/homedetails/8462-Kirkwood-Dr-Los-Angeles-CA-90046/20797866_zpid/
+7 Country Oak Ln,ALAMO,39000000,10,22,21582,CA,https://www.zillow.com/homedetails/7-Country-Oak-Ln-Alamo-CA-94507/82864429_zpid/
+2404 San Marco Dr,LOS ANGELES,1995000,5,6,2706,CA,https://www.zillow.com/homedetails/2404-San-Marco-Dr-Los-Angeles-CA-90068/20804179_zpid/
+35545 Balsam St,WILDOMAR,385000,5,3,2640,CA,https://www.zillow.com/homedetails/35545-Balsam-St-Wildomar-CA-92595/17941728_zpid/
+881 Thomas Ave APT 21,San Diego,795000,3,2,1362,CA,https://www.zillow.com/homedetails/881-Thomas-Ave-APT-21-San-Diego-CA-92109/2085608834_zpid/
+7292 Exotic Garden Dr,CAMBRIA,60000000,11,12,32500,CA,https://www.zillow.com/homedetails/7292-Exotic-Garden-Dr-Cambria-CA-93428/15404962_zpid/
+5230 Gordon Ave,EL CERRITO,549000,3,2,1424,CA,https://www.zillow.com/homedetails/5230-Gordon-Ave-El-Cerrito-CA-94530/18535514_zpid/
+6164 Mauritania Ave,OAKLAND,395000,2,1,1098,CA,https://www.zillow.com/homedetails/6164-Mauritania-Ave-Oakland-CA-94605/24785582_zpid/
+256 Eucalyptus Hill Dr,SANTA BARBARA,36890000,7,20,22729,CA,https://www.zillow.com/homedetails/256-Eucalyptus-Hill-Dr-Santa-Barbara-CA-93108/15881754_zpid/
+8 Beverly Park,Beverly Hills,34800000,7,10,11145,CA,https://www.zillow.com/homedetails/8-Beverly-Park-Beverly-Hills-CA-90210/20533668_zpid/
+4125 Franklin Ave,FULLERTON,549900,3,2,1400,CA,https://www.zillow.com/homedetails/4125-Franklin-Ave-Fullerton-CA-92833/25152393_zpid/
+34 Sylvan Way,Woodacre,499000,3,1,1422,CA,https://www.zillow.com/homedetails/34-Sylvan-Way-Woodacre-CA-94973/82589073_zpid/
+12579 Empire Pl,VICTORVILLE,193900,3,2,1268,CA,https://www.zillow.com/homedetails/12579-Empire-Pl-Victorville-CA-92392/17630618_zpid/
+659 E 52nd Pl,Los Angeles,315000,2,1,960,CA,https://www.zillow.com/homedetails/659-E-52nd-Pl-Los-Angeles-CA-90011/20613205_zpid/
+2910 Ellis St,BERKELEY,875000,2,2,1557,CA,https://www.zillow.com/homedetails/2910-Ellis-St-Berkeley-CA-94703/24830311_zpid/
+714 E Stearns Ave,LA HABRA,370000,3,1,1120,CA,https://www.zillow.com/homedetails/714-E-Stearns-Ave-La-Habra-CA-90631/25363321_zpid/
+10483 Sandall Ln,LOS ANGELES,8450000,4,5,6880,CA,https://www.zillow.com/homedetails/10483-Sandall-Ln-Los-Angeles-CA-90077/20529750_zpid/
+23777 Mulholland Hwy SPC 151,Calabasas,349000,4,3,1800,CA,https://www.zillow.com/homedetails/23777-Mulholland-Hwy-SPC-151-Calabasas-CA-91302/2127467639_zpid/
+1816 Laurel Canyon Blvd,LOS ANGELES,5250000,5,6,5960,CA,https://www.zillow.com/homedetails/1816-Laurel-Canyon-Blvd-Los-Angeles-CA-90046/20802436_zpid/
+5107 Los Hermosos Way,Los Angeles,10498000,5,7,7511,CA,https://www.zillow.com/homedetails/5107-Los-Hermosos-Way-Los-Angeles-CA-90027/2085523910_zpid/
+9719 Heather Rd,BEVERLY HILLS,24500000,5,8,10050,CA,https://www.zillow.com/homedetails/9719-Heather-Rd-Beverly-Hills-CA-90210/20522792_zpid/
+636 Sunnyside Ave,SAN DIEGO,460000,4,1,1112,CA,https://www.zillow.com/homedetails/636-Sunnyside-Ave-San-Diego-CA-92114/17122903_zpid/
+2037 36th Ave,OAKLAND,499000,3,2,1292,CA,https://www.zillow.com/homedetails/2037-36th-Ave-Oakland-CA-94601/24779425_zpid/
+6127 Glen Holly St,LOS ANGELES,799000,2,1,792,CA,https://www.zillow.com/homedetails/6127-Glen-Holly-St-Los-Angeles-CA-90068/20806882_zpid/
+1369 Coast Walk,La Jolla,29500000,6,11,12000,CA,https://www.zillow.com/homedetails/1369-Coast-Walk-La-Jolla-CA-92037/2089445597_zpid/
+2061 Ivar Ave,Los Angeles,1399000,3,4,1983,CA,https://www.zillow.com/homedetails/2061-Ivar-Ave-Los-Angeles-CA-90068/20804534_zpid/
+(undisclosed Address),LAGUNA BEACH,48000000,6,9,10000,CA,https://www.zillow.com/homedetails/(undisclosed-Address)-Laguna-Beach-CA-92651/2085830202_zpid/
+12843 Andretti St,MORENO VALLEY,251500,3,2,1460,CA,https://www.zillow.com/homedetails/12843-Andretti-St-Moreno-Valley-CA-92553/17890144_zpid/
+23500 Collins St,Woodland Hills,2850000,6,7,6400,CA,https://www.zillow.com/homedetails/23500-Collins-St-Woodland-Hills-CA-91367/2099669324_zpid/
+12 Fairway Pt,NEWPORT COAST,33900000,7,9,13532,CA,https://www.zillow.com/homedetails/12-Fairway-Pt-Newport-Coast-CA-92657/25503166_zpid/
+41 Tide Watch,Newport Coast,23850000,6,8,12826,CA,https://www.zillow.com/homedetails/41-Tide-Watch-Newport-Coast-CA-92657/69248438_zpid/
+27748 Hummingbird Ct,HAYWARD,548999,4,3,1656,CA,https://www.zillow.com/homedetails/27748-Hummingbird-Ct-Hayward-CA-94545/24989509_zpid/
+10535 Vestone Way,LOS ANGELES,17888000,6,7,14586,CA,https://www.zillow.com/homedetails/10535-Vestone-Way-Los-Angeles-CA-90077/20529542_zpid/
+39 Ramona Ave,Piedmont,1095000,3,2,1449,CA,https://www.zillow.com/homedetails/39-Ramona-Ave-Piedmont-CA-94611/24750854_zpid/
+15 Skyview Way,SAN FRANCISCO,1295000,3,2,1850,CA,https://www.zillow.com/homedetails/15-Skyview-Way-San-Francisco-CA-94131/15132094_zpid/
+4630 Tobias Ave,SHERMAN OAKS,2095000,5,7,4282,CA,https://www.zillow.com/homedetails/4630-Tobias-Ave-Sherman-Oaks-CA-91403/19984062_zpid/
+13691 Gavina Ave UNIT 638,Sylmar,149900,3,2,1680,CA,https://www.zillow.com/homedetails/13691-Gavina-Ave-UNIT-638-Sylmar-CA-91342/136709735_zpid/
+1620 Carla Rdg,BEVERLY HILLS,24950000,6,8,9393,CA,https://www.zillow.com/homedetails/1620-Carla-Rdg-Beverly-Hills-CA-90210/20534519_zpid/
+7111 La Tijera Blvd APT A202,LOS ANGELES,580000,2,3,1618,CA,https://www.zillow.com/homedetails/7111-La-Tijera-Blvd-APT-A202-Los-Angeles-CA-90045/59276499_zpid/
+1181 Laurel Way,BEVERLY HILLS,15250000,7,8,9370,CA,https://www.zillow.com/homedetails/1181-Laurel-Way-Beverly-Hills-CA-90210/61361593_zpid/
+2500 E Valley Rd,SANTA BARBARA,85000000,12,13,29483,CA,https://www.zillow.com/homedetails/2500-E-Valley-Rd-Santa-Barbara-CA-93108/15960404_zpid/
+30802 Coast Hwy SPC B1,Laguna Beach,149900,2,2,950,CA,https://www.zillow.com/homedetails/30802-Coast-Hwy-SPC-B1-Laguna-Beach-CA-92651/69251171_zpid/
+3100 Benedict Canyon Dr,BEVERLY HILLS,15988000,6,11,12569,CA,https://www.zillow.com/homedetails/3100-Benedict-Canyon-Dr-Beverly-Hills-CA-90210/95046675_zpid/
+16443 Top O Crosby,SAN DIEGO,13500000,8,11,15113,CA,https://www.zillow.com/homedetails/16443-Top-O-Crosby-San-Diego-CA-92127/99576328_zpid/
+1093 19th St,San Francisco,1159000,3,2,1454,CA,https://www.zillow.com/homedetails/1093-19th-St-San-Francisco-CA-94107/2085618593_zpid/
+2714 Adriatic Way,Sacramento,399900,3,2,1574,CA,https://www.zillow.com/homedetails/2714-Adriatic-Way-Sacramento-CA-95826/25891557_zpid/
+9237 Wakefield Ave,PANORAMA CITY,550000,4,4,1850,CA,https://www.zillow.com/homedetails/9237-Wakefield-Ave-Panorama-City-CA-91402/20125003_zpid/
+5872 Morpeth St,OAKLAND,1350000,3,2,2262,CA,https://www.zillow.com/homedetails/5872-Morpeth-St-Oakland-CA-94618/24812600_zpid/
+145 S La Paz St,ANAHEIM,689000,3,2,1505,CA,https://www.zillow.com/homedetails/145-S-La-Paz-St-Anaheim-CA-92807/25414094_zpid/
+16512 Blackbeard Ln APT 200,Huntington Beach,290000,3,2,1272,CA,https://www.zillow.com/homedetails/16512-Blackbeard-Ln-APT-200-Huntington-Beach-CA-92649/25740375_zpid/
+8435 Summerfield Ave,WHITTIER,389000,3,2,1152,CA,https://www.zillow.com/homedetails/8435-Summerfield-Ave-Whittier-CA-90606/21446013_zpid/
+1174 Waverly Cir,HERCULES,549950,4,3,2123,CA,https://www.zillow.com/homedetails/1174-Waverly-Cir-Hercules-CA-94547/64810894_zpid/
+3243 Sonoma Ave,Santa Rosa,459000,3,2,1344,CA,https://www.zillow.com/homedetails/3243-Sonoma-Ave-Santa-Rosa-CA-95405/15760296_zpid/
+2229 Thistle St,Rosamond,20422,3,2,1532,CA,https://www.zillow.com/homedetails/2229-Thistle-St-Rosamond-CA-93560/18968580_zpid/
+1024 Summit Dr,BEVERLY HILLS,22500000,7,8,12000,CA,https://www.zillow.com/homedetails/1024-Summit-Dr-Beverly-Hills-CA-90210/20522157_zpid/
+1116 Laurel Way,BEVERLY HILLS,19998000,6,8,10309,CA,https://www.zillow.com/homedetails/1116-Laurel-Way-Beverly-Hills-CA-90210/20522032_zpid/
+1979 Stradella Rd,LOS ANGELES,6989000,4,6.5,6112,CA,https://www.zillow.com/homedetails/1979-Stradella-Rd-Los-Angeles-CA-90077/20530294_zpid/
+48 Bache St,SAN FRANCISCO,788000,2,3,976,CA,https://www.zillow.com/homedetails/48-Bache-St-San-Francisco-CA-94110/15164537_zpid/
+61 Portola Dr,PALM SPRINGS,249500,3,3.5,1900,CA,https://www.zillow.com/homedetails/61-Portola-Dr-Palm-Springs-CA-92264/18136309_zpid/
+1240 Sierra Alta Way,Los Angeles,10495000,4,6,5500,CA,https://www.zillow.com/homedetails/1240-Sierra-Alta-Way-Los-Angeles-CA-90069/20534877_zpid/
+243 E Home St,LONG BEACH,498500,3,3,1680,CA,https://www.zillow.com/homedetails/243-E-Home-St-Long-Beach-CA-90805/21156319_zpid/
+2123 Eveleth Ave,San Leandro,550000,3,2,1761,CA,https://www.zillow.com/homedetails/2123-Eveleth-Ave-San-Leandro-CA-94577/24882291_zpid/
+1015 Ocean Blvd,Coronado,25000000,11,18,22997,CA,https://www.zillow.com/homedetails/1015-Ocean-Blvd-Coronado-CA-92118/2090609384_zpid/
+542 Flynn Ave,Redwood City,839000,2,2,1150,CA,https://www.zillow.com/homedetails/542-Flynn-Ave-Redwood-City-CA-94063/15566650_zpid/
+3895 Heppner Ln,SAN JOSE,998000,5,3,2137,CA,https://www.zillow.com/homedetails/3895-Heppner-Ln-San-Jose-CA-95136/71494418_zpid/
+2227 Stratford Cir,LOS ANGELES,6499000,6,8,8360,CA,https://www.zillow.com/homedetails/2227-Stratford-Cir-Los-Angeles-CA-90077/35964330_zpid/
+25102 Malibu Rd,MALIBU,20875000,5,6,5212,CA,https://www.zillow.com/homedetails/25102-Malibu-Rd-Malibu-CA-90265/20554519_zpid/
+6937 Chimineas Ave,RESEDA,579000,4,3,1484,CA,https://www.zillow.com/homedetails/6937-Chimineas-Ave-Reseda-CA-91335/19919508_zpid/
+1000 Elden Way,BEVERLY HILLS,29999000,4,5,10021,CA,https://www.zillow.com/homedetails/1000-Elden-Way-Beverly-Hills-CA-90210/20522113_zpid/
+415 E Pleasant St,LONG BEACH,425000,3,2,1044,CA,https://www.zillow.com/homedetails/415-E-Pleasant-St-Long-Beach-CA-90805/21155305_zpid/
+2319 Carol Ave,MOUNTAIN VIEW,1988000,3,2,1823,CA,https://www.zillow.com/homedetails/2319-Carol-Ave-Mountain-View-CA-94040/19536221_zpid/
+6940 Butler Ave,LONG BEACH,499995,3,2,1207,CA,https://www.zillow.com/homedetails/6940-Butler-Ave-Long-Beach-CA-90805/21242628_zpid/
+13859 Country Creek Rd,POWAY,900000,4,5,3870,CA,https://www.zillow.com/homedetails/13859-Country-Creek-Rd-Poway-CA-92064/16828832_zpid/
+20511 Sugarberry Ct,Santa Clarita,499000,4,3,1895,CA,https://www.zillow.com/homedetails/20511-Sugarberry-Ct-Santa-Clarita-CA-91350/244500076_zpid/
+4421 Haskell Ave,Encino,7495000,7,8,10540,CA,https://www.zillow.com/homedetails/4421-Haskell-Ave-Encino-CA-91436/19991126_zpid/
+3290 17 Mile Dr,Pebble Beach,34900000,5,7,8862,CA,https://www.zillow.com/homedetails/3290-17-Mile-Dr-Pebble-Beach-CA-93953/2085889209_zpid/
+10770 Black Mtn Rd SPC 184,San Diego,249900,3,2,1422,CA,https://www.zillow.com/homedetails/10770-Black-Mtn-Rd-SPC-184-San-Diego-CA-92126/2086980289_zpid/
+10252 Sunrise Ln,SANTA ANA,19900000,20,26,36000,CA,https://www.zillow.com/homedetails/10252-Sunrise-Ln-Santa-Ana-CA-92705/83331505_zpid/
+4336 Essex St,EMERYVILLE,699000,3,1,1215,CA,https://www.zillow.com/homedetails/4336-Essex-St-Emeryville-CA-94608/24821417_zpid/
+23777 Mulholland Hwy SPC 46,Calabasas,399000,4,2,1930,CA,https://www.zillow.com/homedetails/23777-Mulholland-Hwy-SPC-46-Calabasas-CA-91302/2112423825_zpid/
+15455 Glenoaks Blvd SPC 402,Sylmar,245000,3,2,1566,CA,https://www.zillow.com/homedetails/15455-Glenoaks-Blvd-SPC-402-Sylmar-CA-91342/2085730348_zpid/
+100 W Potrero Rd,Thousand Oaks,29900000,6,10,24162,CA,https://www.zillow.com/homedetails/100-W-Potrero-Rd-Thousand-Oaks-CA-91361/96115130_zpid/
+211 E California Ave UNIT C2,GLENDALE,360000,2,2,954,CA,https://www.zillow.com/homedetails/211-E-California-Ave-UNIT-C2-Glendale-CA-91206/20834395_zpid/
+2395 Delaware Ave SPC 57,Santa Cruz,198000,2,2,1404,CA,https://www.zillow.com/homedetails/2395-Delaware-Ave-SPC-57-Santa-Cruz-CA-95060/2087424814_zpid/
+3256 17 Mile Dr,Pebble Beach,37000000,9,18,21851,CA,https://www.zillow.com/homedetails/3256-17-Mile-Dr-Pebble-Beach-CA-93953/2090317286_zpid/
+3916 Park Antonio,CALABASAS,4995000,7,8,9336,CA,https://www.zillow.com/homedetails/3916-Park-Antonio-Calabasas-CA-91302/19898054_zpid/
+402 Atkinson St,Roseville,325000,3,2,1178,CA,https://www.zillow.com/homedetails/402-Atkinson-St-Roseville-CA-95678/17652975_zpid/
+5305 Carlsbad Blvd,CARLSBAD,29950000,5,9,10000,CA,https://www.zillow.com/homedetails/5305-Carlsbad-Blvd-Carlsbad-CA-92008/16651231_zpid/
+1901 Manhattan Ave,Hermosa Beach,22000000,6,8,9100,CA,https://www.zillow.com/homedetails/1901-Manhattan-Ave-Hermosa-Beach-CA-90254/20424192_zpid/
+10785 Escobar Dr,SAN DIEGO,530000,4,2,1558,CA,https://www.zillow.com/homedetails/10785-Escobar-Dr-San-Diego-CA-92124/16871692_zpid/
+1638 Los Robles Blvd,SACRAMENTO,182700,3,1,1570,CA,https://www.zillow.com/homedetails/1638-Los-Robles-Blvd-Sacramento-CA-95838/26060416_zpid/
+11509 Delano St,North Hollywood,579000,2,1,930,CA,https://www.zillow.com/homedetails/11509-Delano-St-North-Hollywood-CA-91606/20010834_zpid/

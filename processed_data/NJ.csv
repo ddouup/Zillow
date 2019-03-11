@@ -1,0 +1,53 @@
+address,city,price(USD),bds,ba,sqft,state,url
+10 Frick Dr,ALPINE,17999999,8,14,22000,NJ,https://www.zillow.com/homedetails/10-Frick-Dr-Alpine-NJ-07620/124236838_zpid/
+821 Jersey Ave APT 8A,Elizabeth,199000,3,2,1300,NJ,https://www.zillow.com/homedetails/821-Jersey-Ave-APT-8A-Elizabeth-NJ-07202/2146131282_zpid/
+117 Garfield Ave,TOMS RIVER,249900,3,2,1240,NJ,https://www.zillow.com/homedetails/117-Garfield-Ave-Toms-River-NJ-08753/39595510_zpid/
+27 Ward Ave,RUMSON,11750000,8,12,16000,NJ,https://www.zillow.com/homedetails/27-Ward-Ave-Rumson-NJ-07760/82748567_zpid/
+942 Columbus Dr,Brick,174000,3,2,1409,NJ,https://www.zillow.com/homedetails/942-Columbus-Dr-Brick-NJ-08724/39569957_zpid/
+89 Llewellyn Dr,SPARTA,250000,3,2,1608,NJ,https://www.zillow.com/homedetails/89-Llewellyn-Dr-Sparta-NJ-07871/39949408_zpid/
+55 Columbus Ave,HASBROUCK HEIGHTS,299900,4,2,1491,NJ,https://www.zillow.com/homedetails/55-Columbus-Ave-Hasbrouck-Heights-NJ-07604/37931794_zpid/
+20 S Columbia St,Woodbury,69900,5,2,1640,NJ,https://www.zillow.com/homedetails/20-S-Columbia-St-Woodbury-NJ-08096/38827058_zpid/
+142 Lenape Trl,MANASQUAN,459000,3,3,2588,NJ,https://www.zillow.com/homedetails/142-Lenape-Trl-Manasquan-NJ-08736/39301751_zpid/
+2023 Florence Ave,Hazlet,165000,4,3,2275,NJ,https://www.zillow.com/homedetails/2023-Florence-Ave-Hazlet-NJ-07730/39250346_zpid/
+28 Edgewood Rd,Glen Ridge,499000,4,3,1800,NJ,https://www.zillow.com/homedetails/28-Edgewood-Rd-Glen-Ridge-NJ-07028/38655805_zpid/
+7 Ruth Pl,Piscataway,213750,4,2,1776,NJ,https://www.zillow.com/homedetails/7-Ruth-Pl-Piscataway-NJ-08854/39143860_zpid/
+112 Weber Ave,SAYREVILLE,100000,4,3,1850,NJ,https://www.zillow.com/homedetails/112-Weber-Ave-Sayreville-NJ-08872/39158990_zpid/
+12-18 Randolph Pl,NEWARK,135000,6,4,3769,NJ,https://www.zillow.com/homedetails/12-18-Randolph-Pl-Newark-NJ-07108/38706755_zpid/
+133 Nassau Ave,PAULSBORO,89440,3,2,2040,NJ,https://www.zillow.com/homedetails/133-Nassau-Ave-Paulsboro-NJ-08066/52398675_zpid/
+200 Stabled Way,MAHWAH,29500000,10,12,9528,NJ,https://www.zillow.com/homedetails/200-Stabled-Way-Mahwah-NJ-07430/67878857_zpid/
+105 Montclair Ave,Montclair,765000,5,4,2386,NJ,https://www.zillow.com/homedetails/105-Montclair-Ave-Montclair-NJ-07042/38688574_zpid/
+520 Bird St,Vineland,15600,3,2,1209,NJ,https://www.zillow.com/homedetails/520-Bird-St-Vineland-NJ-08360/38421310_zpid/
+9 Park Ter,MONTCLAIR,569000,4,3,2300,NJ,https://www.zillow.com/homedetails/9-Park-Ter-Montclair-NJ-07043/38684848_zpid/
+46 School St,PISCATAWAY,219900,4,2,1348,NJ,https://www.zillow.com/homedetails/46-School-St-Piscataway-NJ-08854/39148258_zpid/
+398 Rushfoil Dr,Williamstown,299900,4,3,2826,NJ,https://www.zillow.com/homedetails/398-Rushfoil-Dr-Williamstown-NJ-08094/2085536018_zpid/
+326 N Van Dien Ave,Ridgewood,538000,3,2,1932,NJ,https://www.zillow.com/homedetails/326-N-Van-Dien-Ave-Ridgewood-NJ-07450/38012141_zpid/
+309 Manor Ave,Cranford,415000,3,2,1752,NJ,https://www.zillow.com/homedetails/309-Manor-Ave-Cranford-NJ-07016/39981838_zpid/
+301 Dearborne Ave,BLACKWOOD,275000,4,4,2475,NJ,https://www.zillow.com/homedetails/301-Dearborne-Ave-Blackwood-NJ-08012/38257701_zpid/
+99 Bellevue Ave,Montclair,679000,4,4,2259,NJ,https://www.zillow.com/homedetails/99-Bellevue-Ave-Montclair-NJ-07043/38686901_zpid/
+84 Hillside Ave,SPRINGFIELD,535900,4,4,2300,NJ,https://www.zillow.com/homedetails/84-Hillside-Ave-Springfield-NJ-07081/40061858_zpid/
+51 Harvard St,MONTCLAIR,399000,3,2,1256,NJ,https://www.zillow.com/homedetails/51-Harvard-St-Montclair-NJ-07042/38688990_zpid/
+30 Aubrey Rd,MONTCLAIR,699000,4,3,2195,NJ,https://www.zillow.com/homedetails/30-Aubrey-Rd-Montclair-NJ-07043/38686446_zpid/
+28 Erie Pl,Nutley,389000,3,2,1499,NJ,https://www.zillow.com/homedetails/28-Erie-Pl-Nutley-NJ-07110/38721906_zpid/
+228 Cranberry Rd,Farmingdale,299999,4,2,1824,NJ,https://www.zillow.com/homedetails/228-Cranberry-Rd-Farmingdale-NJ-07727/39276033_zpid/
+906 Beach Blvd,Forked River,189900,3,3,2280,NJ,https://www.zillow.com/homedetails/906-Beach-Blvd-Forked-River-NJ-08731/39621700_zpid/
+219 Tilford Rd,Somerdale,52500,4,2,1570,NJ,https://www.zillow.com/homedetails/219-Tilford-Rd-Somerdale-NJ-08083/38254025_zpid/
+309 Lewis St,Somerset,359900,5,3,2150,NJ,https://www.zillow.com/homedetails/309-Lewis-St-Somerset-NJ-08873/39874386_zpid/
+1 Northbrae Dr,BOONTON,435000,4,3,2258,NJ,https://www.zillow.com/homedetails/1-Northbrae-Dr-Boonton-NJ-07005/39497441_zpid/
+158 Dezenzo Ln,West Orange,379000,3,3,1724,NJ,https://www.zillow.com/homedetails/158-Dezenzo-Ln-West-Orange-NJ-07052/38746528_zpid/
+10 Mockingbird Dr,COLTS NECK,3999000,6,9,11000,NJ,https://www.zillow.com/homedetails/10-Mockingbird-Dr-Colts-Neck-NJ-07722/92343958_zpid/
+81 Jefferson Ave,Maplewood,775000,4,3,2753,NJ,https://www.zillow.com/homedetails/81-Jefferson-Ave-Maplewood-NJ-07040/52633303_zpid/
+65 Claremont Ave,Bloomfield,399000,3,2,1800,NJ,https://www.zillow.com/homedetails/65-Claremont-Ave-Bloomfield-NJ-07003/38636022_zpid/
+1004 W 6th St # 06,Plainfield,339900,4,2,2050,NJ,https://www.zillow.com/homedetails/1004-W-6th-St-06-Plainfield-NJ-07063/2089724094_zpid/
+449 Farley Ave,Scotch Plains,440000,4,3,2485,NJ,https://www.zillow.com/homedetails/449-Farley-Ave-Scotch-Plains-NJ-07076/40051593_zpid/
+48 Clover Hill Ln,COLTS NECK,649000,4,3,2500,NJ,https://www.zillow.com/homedetails/48-Clover-Hill-Ln-Colts-Neck-NJ-07722/39229059_zpid/
+2414 E Edgar Rd,LINDEN,224900,3,2,619,NJ,https://www.zillow.com/homedetails/2414-E-Edgar-Rd-Linden-NJ-07036/40019912_zpid/
+92 Liberty St,Bloomfield,350224,5,2,1659,NJ,https://www.zillow.com/homedetails/92-Liberty-St-Bloomfield-NJ-07003/38630289_zpid/
+412 Highland Ave,Montclair,759000,5,4,3458,NJ,https://www.zillow.com/homedetails/412-Highland-Ave-Montclair-NJ-07043/38680981_zpid/
+37 Knollwood Ave,Madison,549900,3,3,1873,NJ,https://www.zillow.com/homedetails/37-Knollwood-Ave-Madison-NJ-07940/39437989_zpid/
+126 Northfield Rd,PARSIPPANY,448700,4,2,2064,NJ,https://www.zillow.com/homedetails/126-Northfield-Rd-Parsippany-NJ-07054/39473202_zpid/
+27 Chestnut Dr,COLTS NECK,769000,5,5,4941,NJ,https://www.zillow.com/homedetails/27-Chestnut-Dr-Colts-Neck-NJ-07722/39229574_zpid/
+412 Jouet St,Roselle,145000,4,2,1383,NJ,https://www.zillow.com/homedetails/412-Jouet-St-Roselle-NJ-07203/40044077_zpid/
+113 Apple St,Tinton Falls,359000,4,2,1885,NJ,https://www.zillow.com/homedetails/113-Apple-St-Tinton-Falls-NJ-07724/39374300_zpid/
+5 Eldridge Ave,Middletown,479999,4,2,1678,NJ,https://www.zillow.com/homedetails/5-Eldridge-Ave-Middletown-NJ-07748/39323418_zpid/
+3 Evergreen Ln,Burlington,88400,3,2,1284,NJ,https://www.zillow.com/homedetails/3-Evergreen-Ln-Burlington-NJ-08016/38108022_zpid/
+50 Capri Dr,Brick,269900,3,2,1620,NJ,https://www.zillow.com/homedetails/50-Capri-Dr-Brick-NJ-08723/39546287_zpid/
